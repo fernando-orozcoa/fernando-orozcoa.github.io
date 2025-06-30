@@ -4,7 +4,7 @@
 📍 Mexico City, México  
 📧 fernando88@gmail.com  
 📞 +52-55-5453-8607  
-🌐 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/fernandoorozco)
+🌐 [LinkedIn](https://www.linkedin.com/in/forozco/) | [GitHub](https://github.com/fernand-oorozcoa)
 
 ---
 
