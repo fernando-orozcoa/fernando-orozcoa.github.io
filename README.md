@@ -14,7 +14,7 @@ Innovative leader in digital transformation, product strategy, and customer expe
 
 ---
 
-## 🧑‍💼 Experience Highlights
+## 💼 Experience Highlights
 
 ### **Avalia – Commercial Director**
 *Feb 2024 – Oct 2024*  
@@ -42,14 +42,14 @@ Innovative leader in digital transformation, product strategy, and customer expe
 - 📊 **Feature Engineering Toolkit:** Python scripts for histogram diagnostics and statistical insights.  
 - 🛠️ **Model Performance Tracker:** Logging system to track recall, thresholds, and PR AUC across experiments.  
 
-> Explore more on my [GitHub Projects](https://github.com/fernandoorozco?tab=repositories)
+> Explore more on my [GitHub Projects](https://github.com/fernando-orozcoa)
 
 ---
 
 ## 🎓 Education
 
-- **Post Grad in AI & ML** – Texas McCombs (2025)  
-- **MBA** – ITAM (2010)  
+- **Post Graduate Program in Artificial Intelligence and Machine Learning** – Texas McCombs School of Business (2025)  
+- **Master of Business Administration (MBA)** – ITAM (2010)  
 - **B.S. in Systems Engineering** – ITESM (2004)
 
 ---
