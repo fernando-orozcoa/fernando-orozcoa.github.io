@@ -38,9 +38,9 @@ Innovative leader in digital transformation, product strategy, and customer expe
 
 ## 🧠 Projects
 
-- 💡 **Wind Turbine Failure Detection (Ongoing):** Neural network optimization for predictive maintenance.  
-- 📊 **Feature Engineering Toolkit:** Python scripts for histogram diagnostics and statistical insights.  
-- 🛠️ **Model Performance Tracker:** Logging system to track recall, thresholds, and PR AUC across experiments.  
+- 🔧 **Wind Turbine Failure Detection (Ongoing):** Neural network optimization for predictive maintenance.  
+- 🏦 **Personal Loan Conversion Prediction – AllLife Bank:** Decision tree classification model to support targeted marketing.  
+- 🍽️ **Exploratory Data Analysis – FoodHub:** Exploratory data analysis project using real customer order data from a New York-based food delivery aggregator.  
 
 > Explore more on my [GitHub Projects](https://github.com/fernando-orozcoa)
 
