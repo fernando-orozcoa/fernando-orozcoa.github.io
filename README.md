@@ -66,6 +66,7 @@ Innovative leader in digital transformation, product strategy, and customer expe
 
 ## 📜 Certifications
 
+- CS50's Introduction to Programming with Python - HarvardX
 - SCRUM Master – Citibanamex  
 - Investment Strategies – AMIB  
 - Java Programming – Sun Microsystems
