@@ -38,7 +38,8 @@ Innovative leader in digital transformation, product strategy, and customer expe
 
 ## 🧠 Projects
 
-- 🔧 **Wind Turbine Failure Detection (Ongoing):** Neural network optimization for predictive maintenance.  
+- 🔧 **Wind Turbine Failure Detection (Ongoing):** Neural network optimization for predictive maintenance.
+- 🛂 **Visa Certification Prediction:** Ensemble classification modeling with sampling strategies to support regulatory decision-making and applicant profiling.  
 - 🏦 **Personal Loan Conversion Prediction – AllLife Bank:** Decision tree classification model to support targeted marketing.  
 - 🍽️ **Exploratory Data Analysis – FoodHub:** Exploratory data analysis project using real customer order data from a New York-based food delivery aggregator.  
 
